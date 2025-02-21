@@ -11,8 +11,8 @@
 - 📫 Atualmente reside em Camaragibe, Pernambuco;
 - 🌱 Graduado em Engenharia Agronômica **Universidade Federal Rural de Pernambuco**;
 
-- 🔭 Mestre em Melhoramento Genético de Plantas e atualmente estou cursando Doutorado na mesma área **UFRPE**;
-- 📄 Ingressou na área da programação aos 29 anos, velho? Não mesmo hahaha ![alt text](image.png);
+- 🔭 Mestre em Melhoramento Genético de Plantas e atualmente cursando Doutorado na mesma área **UFRPE**;
+- 📄 Ingressou na área da programação aos 29 anos, velho? Não mesmo hahaha;
 - 👨‍💻 Iniciou o aprendizado em programação com Python.
 
 
