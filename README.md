@@ -68,6 +68,6 @@
 <h3 align="left">📊 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonatanlimax&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
   <img src="https://streak-stats.demolab.com?user=jonatanlimax&theme=tokyonight&cache_seconds=1800" />
 </p>
