@@ -65,24 +65,20 @@
 
 ---
 
-### 📊 Estatísticas
-
 <h3 align="left">📊 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonatanlimax&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonatanlimax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jonatanlimax&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanlimax&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Conquistas
-
 <h3 align="left">🏆 Conquistas</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonatanlimax&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonatanlimax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
