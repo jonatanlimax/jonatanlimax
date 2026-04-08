@@ -29,9 +29,11 @@
 <a href="https://linkedin.com/in/jonatan-lima-269626285/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
 <a href="https://fb.com/jonatan.d.lima/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="40"/>
 </a>
+
 <a href="https://instagram.com/jonatanlima1" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
